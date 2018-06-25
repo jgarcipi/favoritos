@@ -1,0 +1,16 @@
+PODS:
+  - favoritos (0.1.0)
+
+DEPENDENCIES:
+  - favoritos (from `../`)
+
+EXTERNAL SOURCES:
+  favoritos:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  favoritos: 753789814abc85168b54fc741b477185da68952e
+
+PODFILE CHECKSUM: 1b42e85dc69f242e7d65fdb25a93942fed9b0bb1
+
+COCOAPODS: 1.5.3
